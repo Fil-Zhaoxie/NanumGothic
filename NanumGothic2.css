@@ -1,4 +1,4 @@
-?raw=true/* 
+/* 
  * Nanum Gothic (Korean) http://www.google.com/fonts/earlyaccess
  */
 @font-face {
@@ -21,7 +21,7 @@
     font-family: 'Nanum Gothic';
     font-style: normal;
     font-weight: 800;
-    src: url(https://cdn.rawgit.com/Fil-Zhaoxie/NanumGothic/tree/master/fonts/NanumGothic-ExtraBold.eot);
-    src: url(https://cdn.rawgit.com/Fil-Zhaoxie/NanumGothic/tree/master/fonts/NanumGothic-ExtraBold.eot?#iefix) format('embedded-opentype'), url(https://cdn.rawgit.com/Fil-Zhaoxie/NanumGothic/tree/master/fonts/NanumGothic-ExtraBold.woff2) format('woff2'), url(https://cdn.rawgit.com/Fil-Zhaoxie/NanumGothic/tree/master/fonts/NanumGothic-ExtraBold.woff) format('woff'), url(https://cdn.rawgit.com/Fil-Zhaoxie/NanumGothic/tree/master/fonts/NanumGothic-ExtraBold.ttf) format('truetype');
+    src: url(https://cdn.rawgit.com/Fil-Zhaoxie/NanumGothic/master/fonts/NanumGothic-ExtraBold.eot?raw=true);
+    src: url(https://cdn.rawgit.com/Fil-Zhaoxie/NanumGothic/master/fonts/NanumGothic-ExtraBold.eot?raw=true#iefix) format('embedded-opentype'), url(https://cdn.rawgit.com/Fil-Zhaoxie/NanumGothic/master/fonts/NanumGothic-ExtraBold.woff2?raw=true) format('woff2'), url(https://cdn.rawgit.com/Fil-Zhaoxie/NanumGothic/master/fonts/NanumGothic-ExtraBold.woff?raw=true) format('woff'), url(https://cdn.rawgit.com/Fil-Zhaoxie/NanumGothic/master/fonts/NanumGothic-ExtraBold.ttf?raw=true) format('truetype');
 }
 
